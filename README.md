@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -226,15 +226,6 @@
             </div>
         </div>
         <!-- COLUMNA DERECHA (Navegador y Texto) -->
-        <div class="browser-mockup">
-            <div class="browser-header">
-                <div class="browser-actions">
-                    <i class="fa-solid fa-arrow-left"></i>
-                    <i class="fa-solid fa-arrow-right"></i>
-                    <i class="fa-solid fa-rotate-right"></i>
-                </div>
-                <div class="browser-url">
-                    formacion.com/habilidades
                 </div>
             </div>
             <div class="browser-content">
